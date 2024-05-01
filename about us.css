@@ -1,0 +1,29 @@
+h2{
+    font-size: 30px;
+    color: rgb(225, 32, 97);
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-photo/back-school-stationery-education-element-empty-banner-cartoon-yellow-background-3d-illustration_56104-1824.jpg");
+    background-repeat: no-repeat;
+    background-size: 1680px;
+    background-position: center;
+}
+
+dl{
+    font-size: 20px;
+}
+
+table{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 30px;
+    color: rgb(18, 29, 27);
+}
+
+p{
+    font-size: 50px;
+    color: rgb(8, 33, 87);
+}

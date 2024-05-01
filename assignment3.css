@@ -1,0 +1,63 @@
+.grid1{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: 2px;
+    align-items: center;
+
+.text{
+    h1{
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 40px;
+}
+
+h2{
+
+    text-align: center;
+    padding-left: 30px;
+}
+
+p{
+    margin: 0%;
+}
+}
+
+}
+
+.grid2{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: 550px;
+    align-items: center;
+
+}
+
+
+.table{
+    font-size: 40px;
+    height: 40px;
+    width: 50x;
+    margin-top: 100px;
+    margin-left: 100px;
+
+    td{
+        color: rgb(162, 226, 97);
+    }
+
+    th{
+        color: rgb(193, 56, 104);
+    }
+} 
+
+.links{
+    margin-top: 200px;
+}
+
+.Home{
+    padding-right: 10px;
+}
+
+.Course{
+    padding-right: 10px;
+}
